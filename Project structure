@@ -1,0 +1,6 @@
+todo-app
+├── client           // Frontend (React)
+├── models           // MongoDB models
+├── routes           // API routes
+├── .env             // Environment variables
+└── server.js        // Entry point for the server
